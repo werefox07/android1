@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutumnSport</string>
+    <string name="change_text_color_button">Change text color</string>
+    <string name="main_text_view">Good day!</string>
+    <string name="change_text_direction_button">Change text direction</string>
+    <string name="random_text_color_button">Random text color</string>
+</resources>
